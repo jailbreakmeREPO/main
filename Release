@@ -1,0 +1,8 @@
+Origin: Jailbreakme Rebooted
+Label: Jailbreakme Rebooted
+Suite: stable
+Version: 1.0
+Codename: LucieEdition
+Architectures: iphoneos-arm
+Components: main
+Description: Lucie Edition and more
